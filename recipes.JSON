@@ -1,0 +1,59 @@
+{
+    "Default_Template_Name" : {
+        "Image" : "",
+        "Description" : "",
+        "Ingredients" : [],
+        "Steps" : [],
+        "Progress Pictures" : [],
+        "Prep Time" : 0,
+        "Cook Time" : 0,
+        "Servings" : 0
+    },
+    "Pancakes" : {
+        "Image" : "",
+        "Description" : "My favourite pancake recipe by far!",
+        "Ingredients" : [
+            "1.5 cups all-purpose flour",
+            "3.5 teaspoons baking powder",
+            "1 tablespoon white sugar",
+            "0.25 teaspoon salt, or more to taste",
+            "1.25 cups milk",
+            "3 tablespoons butter, melted",
+            "1 egg"
+        ],
+        "Steps" : [
+            "Sift flour, baking powder, sugar, and salt together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth.",
+            "Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately ¼ cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip and cook until browned on the other side. Repeat with remaining batter."
+        ],
+        "Progress Pictures" : [],
+        "Prep Time" : 5,
+        "Cook Time" : 15,
+        "Servings" : 8
+    },
+    "Banana Chocolate Chip Bread" : {
+        "Image" : "",
+        "Description" : "",
+        "Ingredients" : [
+            "2 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "3 ripe bananas, mashed",
+            "1 tablespoon milk",
+            "1 teaspoon ground cinnamon, or to taste",
+            "1 cup white sugar",
+            "0.5 cup butter, softened",
+            "2 large eggs",
+            "1 cup semisweet chocolate chips"
+        ],
+        "Steps" : [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan, preferably glass.",
+            "Mix flour, baking powder, baking soda, and salt in a bowl. Stir bananas, milk, and cinnamon in another bowl. Beat sugar and butter together in a third bowl with an electric mixer until light and fluffy; add eggs one at a time, beating well after each addition. Stir banana mixture into butter mixture; mix in flour mixture until just blended. Fold in chocolate chips; pour batter into the prepared loaf pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 70 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack before slicing."
+        ],
+        "Progress Pictures" : [],
+        "Prep Time" : 15,
+        "Cook Time" : 70,
+        "Servings" : 10
+    }
+}
